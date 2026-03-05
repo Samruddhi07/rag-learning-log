@@ -18,3 +18,6 @@ Build and deploy a domain specific AI Q&A bot using RAG in 30 days.
 
 ## Status
 Day 1: Project started
+
+
+Day 1: GitHub repository created
