@@ -21,3 +21,6 @@ Day 1: Project started
 
 
 Day 1: GitHub repository created
+
+## Progress Log
+Day 1: Repository setup
